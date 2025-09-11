@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DriveBuddy</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 11 Sep 2025 17:33:35 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg" length="5252213" type="application/octet-stream" sparkle:edSignature="iW8aoV28/+9uA4AoxWQT3pGhTT8ZyNBcXgd5KatKLEN87+/C7KM4S2aM0mlPCezf57JMOGeA0iNgy6BAV4XAAw=="/>
+        </item>
+    </channel>
+</rss>
