@@ -3,12 +3,12 @@
     <channel>
         <title>DriveBuddy</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Mon, 15 Dec 2025 18:15:12 -0500</pubDate>
-            <sparkle:version>1.1.5</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.1.6</title>
+            <pubDate>Thu, 18 Dec 2025 20:14:42 -0500</pubDate>
+            <sparkle:version>1.1.6</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg" length="8411984" type="application/octet-stream" sparkle:edSignature="vnrsPKshmZJ9lRO+gOATQxumud7OZDIxtdspC8jsqEt+xk1FslrQa/0WegFt4EaGgWEFtS/LXAr5P2nMxXUjBg=="/>
+            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg" length="8694774" type="application/octet-stream" sparkle:edSignature="CiT0/AmPX0LMd65w33lKfbLp9QBnUW2YWdHuvKMLy28p4g8CqjVAfFCXFBtPs73HXA9j7yUbTTOutQCSKUaqCA=="/>
         </item>
     </channel>
 </rss>
