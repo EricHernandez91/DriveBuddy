@@ -4,8 +4,8 @@
         <title>DriveBuddy</title>
         <item>
             <title>1.1.9</title>
-            <pubDate>Sun, 05 Jul 2026 21:21:48 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Sun, 05 Jul 2026 22:02:26 -0400</pubDate>
+            <sparkle:version>1.1.9</sparkle:version>
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -25,7 +25,10 @@
                     <li><b>Eject drives</b> right from DriveBuddy.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg" length="10760455" type="application/octet-stream" sparkle:edSignature="5Dp1YrcxvCq99PI/XG9pHOcUXovKdWuJYNwaJN/yQ7aImvOx5C9j67RDDvFv7wzmo9ZoLtKywnnr0mrRa3glDA=="/>
+            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg"
+                       length="12461818"
+                       type="application/octet-stream"
+                       sparkle:edSignature="AntnJL7GU5fPG/5Al8mNnvGE4F3haQElWuiUsDqwoyLafx2Ne1ClZUDBLpFSEcQrohvWQVbXzv3uXnEvX0OABA=="/>
         </item>
     </channel>
 </rss>
