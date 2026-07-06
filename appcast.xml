@@ -3,12 +3,32 @@
     <channel>
         <title>DriveBuddy</title>
         <item>
-            <title>1.1.7</title>
-            <pubDate>Fri, 16 Jan 2026 16:45:28 -0500</pubDate>
-            <sparkle:version>1.1.7</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <title>1.1.9</title>
+            <pubDate>Sun, 05 Jul 2026 21:02:33 -0400</pubDate>
+            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg" length="9797351" type="application/octet-stream" sparkle:edSignature="pfUoHc7SZFxZelLLQssebRj1X8lilKqwFgLv9kht+64aIUoD2CDnqs0R2M6R0XN/Is7YRnSeWqY1GGRAMD/8Dg=="/>
+            <description><![CDATA[
+                <h2>DriveBuddy 1.1.9</h2>
+                <p>A big stability and performance update.</p>
+                <h3>Improved</h3>
+                <ul>
+                    <li><b>Better stability</b> — fewer freezes and hangs when launching, connecting drives, scanning, searching, and browsing.</li>
+                    <li><b>Nicknames save reliably</b>, including on ExFAT and numbered drives.</li>
+                    <li><b>Smarter search</b> — finds files nested deep on a drive, ranks the best match first, and jumps to the drive when you click a result.</li>
+                    <li>More reliable scan-complete notifications.</li>
+                    <li>Import and export no longer freeze the app, and show progress.</li>
+                    <li>Large drives open faster and use less memory.</li>
+                </ul>
+                <h3>New</h3>
+                <ul>
+                    <li><b>Eject drives</b> right from DriveBuddy.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg"
+                       length="10598682"
+                       type="application/octet-stream"
+                       sparkle:edSignature="W9ZqeAZOzRBL24eK5UQEG+p5vuB49Z3KSNXc02/I0UxitO8kmf/OnIr7RyMpBT+7301N2AdJ27DgS8qDXgAVDA=="/>
         </item>
     </channel>
-</rss> 
+</rss>
