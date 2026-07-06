@@ -4,31 +4,11 @@
         <title>DriveBuddy</title>
         <item>
             <title>1.1.9</title>
-            <pubDate>Sun, 05 Jul 2026 22:02:26 -0400</pubDate>
+            <pubDate>Sun, 05 Jul 2026 21:21:48 -0400</pubDate>
             <sparkle:version>1.1.9</sparkle:version>
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>DriveBuddy 1.1.9</h2>
-                <p>A big stability and performance update.</p>
-                <h3>Improved</h3>
-                <ul>
-                    <li><b>Better stability</b> — fewer freezes and hangs when launching, connecting drives, scanning, searching, and browsing.</li>
-                    <li><b>Nicknames save reliably</b>, including on ExFAT and numbered drives.</li>
-                    <li><b>Smarter search</b> — finds files nested deep on a drive, ranks the best match first, and jumps to the drive when you click a result.</li>
-                    <li>More reliable scan-complete notifications.</li>
-                    <li>Import and export no longer freeze the app, and show progress.</li>
-                    <li>Large drives open faster and use less memory.</li>
-                </ul>
-                <h3>New</h3>
-                <ul>
-                    <li><b>Eject drives</b> right from DriveBuddy.</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg"
-                       length="12461818"
-                       type="application/octet-stream"
-                       sparkle:edSignature="AntnJL7GU5fPG/5Al8mNnvGE4F3haQElWuiUsDqwoyLafx2Ne1ClZUDBLpFSEcQrohvWQVbXzv3uXnEvX0OABA=="/>
+            <enclosure url="https://github.com/EricHernandez91/DriveBuddy/releases/download/prod/DriveBuddy.dmg" length="12461818" type="application/octet-stream" sparkle:edSignature="AntnJL7GU5fPG/5Al8mNnvGE4F3haQElWuiUsDqwoyLafx2Ne1ClZUDBLpFSEcQrohvWQVbXzv3uXnEvX0OABA=="/>
         </item>
     </channel>
 </rss>
